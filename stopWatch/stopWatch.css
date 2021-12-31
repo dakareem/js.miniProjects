@@ -1,0 +1,27 @@
+* {
+      text-align: center;
+}
+
+body {
+      background-color: rgb(197, 255, 245);
+}
+
+h1 {
+      /* border: solid 1px black; */
+      border: thick double hsl(197, 61%, 50%);
+      margin-left: 22%;
+      margin-right: 22%;
+      font-family: 'Roboto', sans-serif;
+}
+
+
+#seconds,
+#tens {
+      font-size: 40px;
+}
+
+button {
+      border: solid 1px white;
+      font-size: 20px;
+      background-color: hsl(197, 61%, 50%);
+}
